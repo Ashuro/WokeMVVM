@@ -96,7 +96,7 @@ static HttpAgent * _sharedAgent;
 
 - (NSString *)getAESKey{
     
-    NSString * SERVERKEY = @"abc";
+    NSString * SERVERKEY = @"123456456456";
     NSData * jsessionIDData;
     //jsessionID转data
 //    if ([WokePersonalInfo instance].jsessionId) {
