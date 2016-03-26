@@ -1,0 +1,15 @@
+//
+//  WokeMVVM.pch
+//  WokeMVVM
+//
+//  Created by 金秋成 on 16/3/26.
+//  Copyright © 2016年 蓝兔子. All rights reserved.
+//
+
+#ifndef WokeMVVM_pch
+#define WokeMVVM_pch
+#import "ReactiveCocoa.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* WokeMVVM_pch */
